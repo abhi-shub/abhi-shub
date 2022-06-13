@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I am Abhishek Shubham👋</h1>
+Hi there, I am **Abhishek Shubham**👋
  
 - 🔭 I am currently working on Deep Learning and NLP projects
 - 🌱 I’m currently learning ML Engineering and Deep Learning concepts
