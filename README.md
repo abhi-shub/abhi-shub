@@ -1,12 +1,16 @@
-<h1 align="center"> Hi there, I am Abhishek Shubham👋<h1>
-
-
+<h1 align="center"> Hi there, I am Abhishek Shubham👋</h1>
+ 
+- 🔭 I am currently working on Deep Learning and NLP projects
+- 🌱 I’m currently learning ML Engineering and Deep Learning concepts
+- 💬 Ask me about <strong>Python, SQL, Machine Learning, Data Science</strong> 
+- 💞️ I’m looking to collaborate on Machine Learning, Deep Learning and NLP projects.
+- 📫 How to reach me: 7677923794
 <!---
 - 👋 Hi, I’m @Abhishek Shubham
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: 7677923794
 --->
   
 <!---
