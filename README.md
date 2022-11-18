@@ -6,7 +6,7 @@ Hi there, I am **Abhishek Shubham**👋
 - 💞️ I’m looking to collaborate on Machine Learning, Deep Learning and NLP projects.
 - 📫 How to reach me: 7677923794
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Shubham001&theme=dark&show_icons=true)
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi-shub&theme=dark&show_icons=true)
 <!---
 - 👋 Hi, I’m @Abhishek Shubham
 - 👀 I’m interested in ...
